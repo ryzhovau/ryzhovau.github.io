@@ -1,4 +1,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/ryzhovau.svg?style=social&label=Follow)
-![Github commits (since latest release)](https://img.shields.io/github/commits-since/yzhovau/ryzhovau.github.io/latest.svg)
+(![Donate](https://img.shields.io/badge/Donate-%24-blue.svg?longCache=true))[https://www.paypal.me/ryzhovau/]
 # ryzhovau.github.io
 ryzhov-al.ru redirection
